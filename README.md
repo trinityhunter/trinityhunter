@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trinityhunter&show_icons=true&locale=en&layout=compact" alt="trinityhunter" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinityhunter&show_icons=true&locale=en" alt="trinityhunter" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinityhunter&" alt="trinityhunter" /></p>
