@@ -33,7 +33,7 @@
 <div align=center>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trinityhunter&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="trinityhunter" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trinityhunter&show_icons=true&locale=en&theme=tokyonight" alt="trinityhunter" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinityhunter&show_icons=true&locale=en&theme=tokyonight" alt="trinityhunter" />
 <br/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trinityhunter&&theme=tokyonight" alt="trinityhunter" />
